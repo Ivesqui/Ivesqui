@@ -1,6 +1,6 @@
 ![Header](./BannerProf.png)
 
-# **Welcome** 👋 , I'm Christian Estupiñan.
+# **Welcome** 👋 , I'm Christian Estupinan.
 
 I'm a full stack developer currently based in Ecuador EC 🇪🇨, specializing in building exceptional API and websites, and everything in between.
 
