@@ -1,4 +1,4 @@
-![Header](./Banner.png)
+![Header](./BannerProf.png)
 
 # **Welcome** 👋 , I'm Christian Estupiñan.
 
