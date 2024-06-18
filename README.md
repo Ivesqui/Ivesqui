@@ -6,12 +6,12 @@
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
 </div>
 
-## About
+## 👨‍💻 About
 
 I'm a full stack developer currently based in Ecuador EC 🇪🇨, specializing in building exceptional API and websites, and everything in between.
 
 
-## Tech Stack 🛠
+##  🛠 Tech Stack
 
 ###   Backend 🗄 
 
