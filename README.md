@@ -1,6 +1,13 @@
 ![Header](./1.png)
+<div align="center">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white">
+  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
+</div>
 
-I'm a full stack developer currently based in Ecuador EC 🇪🇨, specializing in building exceptional API and websites, and everything in between.
+### I'm a full stack developer currently based in Ecuador EC 🇪🇨, specializing in building exceptional API and websites, and everything in between.
+
 
 ## Tech Stack 🛠
 
