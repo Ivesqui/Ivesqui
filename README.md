@@ -1,9 +1,14 @@
 ![Header](./1.png)
 <div align="center">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+  <a href="https://www.instagram.com/chrisivesqui/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/cestupinanquintero/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://twitter.com/chrisivesqui/">
   <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white">
-  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
 </div>
 
 ## 👨‍💻 About
