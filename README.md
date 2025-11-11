@@ -1,6 +1,6 @@
 ![Header](./1.png)
 <div align="center">
-  <a href="https://www.linkedin.com/in/cestupinanquintero/">
+  <a href="https://www.linkedin.com/in/chrisivesqui/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
